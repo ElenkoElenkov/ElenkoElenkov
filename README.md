@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Elenko 👋
 
-<!--
-**ElenkoElenkov/ElenkoElenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Senior Full-Stack & Mobile Developer  
+🌍 London, UK  
+🚀 Building real-world business systems, automation tools and high-converting websites
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+### Backend
+- Python (Flask, automation, APIs)
+- PHP
+- SQL (SQLite, MySQL)
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Other
+- REST APIs
+- Web scraping
+- GUI apps (Tkinter)
+- Business process automation
+- Payment integrations
+- SEO & performance optimisation
+
+---
+
+## 🏢 Live Business Projects
+
+🔹 https://voicedecline.com  
+Driver automation system for ride-hailing & delivery workflows
+
+🔹 https://topcleanrado.co.uk  
+Full business website with booking functionality
+
+🔹 https://dianaclinic.co.uk  
+Aesthetic clinic website & digital platform
+
+---
+
+## 📌 Public Development Work
+
+🔗 **Python Projects Collection**  
+https://github.com/ElenkoElenkov/elenko-python-projects
+
+Includes:
+- Games (Turtle & CLI)
+- GUI desktop apps
+- Web scraping tools
+- Automation scripts
+- API projects
+
+---
+
+## 🌐 Portfolio
+
+👉 https://elenkoelenkov.com
+
+---
+
+## 📫 Contact
+
+📧 support@elenkoelenkov.com
